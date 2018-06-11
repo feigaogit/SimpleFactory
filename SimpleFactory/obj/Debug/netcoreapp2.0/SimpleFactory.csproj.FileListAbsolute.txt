@@ -1,0 +1,11 @@
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.0\SimpleFactory.deps.json
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.0\SimpleFactory.runtimeconfig.json
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.0\SimpleFactory.runtimeconfig.dev.json
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.0\SimpleFactory.dll
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\bin\Debug\netcoreapp2.0\SimpleFactory.pdb
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.csprojResolveAssemblyReference.cache
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.csproj.CoreCompileInputs.cache
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.AssemblyInfoInputs.cache
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.AssemblyInfo.cs
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.dll
+E:\练习\.net core\CoreApi\SimpleFactory\SimpleFactory\obj\Debug\netcoreapp2.0\SimpleFactory.pdb
